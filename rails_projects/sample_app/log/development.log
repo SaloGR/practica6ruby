@@ -1,0 +1,53 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 10.0.2.2 at 2013-03-13 13:18:33 +0000
+Connecting to database specified by database.yml
+Served asset /rails.png - 304 Not Modified (125ms)
+
+
+Started GET "/static_pages/about" for 10.0.2.2 at 2013-03-13 13:18:41 +0000
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (10.3ms)
+Compiled static_pages.css  (102ms)  (pid 1580)
+Compiled application.css  (219ms)  (pid 1580)
+Compiled jquery.js  (3ms)  (pid 1580)
+Compiled jquery_ujs.js  (0ms)  (pid 1580)
+Compiled static_pages.js  (583ms)  (pid 1580)
+Compiled application.js  (1117ms)  (pid 1580)
+Completed 200 OK in 2148ms (Views: 2147.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 10.0.2.2 at 2013-03-13 13:18:44 +0000
+Served asset /application.css - 200 OK (30ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 10.0.2.2 at 2013-03-13 13:18:44 +0000
+Served asset /jquery_ujs.js - 200 OK (32ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 10.0.2.2 at 2013-03-13 13:18:44 +0000
+Served asset /jquery.js - 200 OK (42ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 10.0.2.2 at 2013-03-13 13:18:44 +0000
+Served asset /static_pages.css - 200 OK (25ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 10.0.2.2 at 2013-03-13 13:18:44 +0000
+Served asset /static_pages.js - 200 OK (17ms)
+
+
+Started GET "/assets/application.js?body=1" for 10.0.2.2 at 2013-03-13 13:18:44 +0000
+Served asset /application.js - 200 OK (49ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/application.css" for 10.0.2.2 at 2013-04-11 10:25:45 +0100
+Connecting to database specified by database.yml
+Served asset /application.css - 200 OK (76ms)
